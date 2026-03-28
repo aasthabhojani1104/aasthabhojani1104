@@ -68,7 +68,7 @@
 ### 📫 Connect With Me
 <p align="center">
 📧 <b>aasthabhojani26@gmail.com</b> <br/>
-💼 <a href="YOUR_LINKEDIN">LinkedIn</a>
+💼 <a href="www.linkedin.com/in/aastha-bhojani">LinkedIn</a>
 </p>
 
 ---
