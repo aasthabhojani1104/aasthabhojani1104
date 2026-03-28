@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Aastha Bhojani</h1>
 
 <h3 align="center">
-✨ Turning ideas into interactive web experiences ✨  
-💻 Aspiring Full Stack Developer | ASP.NET • Web API • Frontend  
+✨ Turning ideas into interactive web experiences ✨ <br/>
+💻 Aspiring Full Stack Developer | ASP.NET • Web API • Frontend
 </h3>
 
 <p align="center">
@@ -12,48 +12,67 @@
 ---
 
 ### 🌸 About Me
-```diff
-+ 💡 I love building real-world applications  
-+ 🔥 Strong in Frontend + Backend integration  
-+ 🌱 Currently exploring ASP.NET Core & APIs  
-+ 🎯 Preparing for placements with DSA & projects  
+- 💡 I love building real-world applications  
+- 🔥 Strong in frontend + backend integration  
+- 🌱 Currently exploring **ASP.NET Core & Web APIs**  
+- 🎯 Preparing for placements with **DSA & projects**  
+
+---
 
 ### 🚀 Projects
-- 🔹 **Task Manager App**  
-  ✔ ASP.NET Core Web API + Dashboard UI  
-  ✔ Features: CRUD, Charts, Authentication  
 
-- 🔹 **Admin Panel System**  
-  ✔ Country, State, City, Store Management  
-  ✔ AJAX, Pagination, Partial Views  
+🔹 **Task Manager App**  
+- ASP.NET Core Web API + Interactive Dashboard  
+- Features: CRUD operations, charts, authentication  
 
-- 🔹 **HRMS API**  
-  ✔ Attendance, Leave & Profile APIs  
-  ✔ Clean Architecture + SQL Server  
+🔹 **Admin Panel System**  
+- Country, State, City, Store management  
+- AJAX, pagination, partial views  
+
+🔹 **HRMS API**  
+- Attendance, leave & employee profile APIs  
+- Clean architecture with SQL Server  
 
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
-<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+<p align="center">
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" /></a>
+<a href="https://angular.io" target="_blank"><img src="https://skillicons.dev/icons?i=angular" /></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+<a href="https://learn.microsoft.com/en-us/sql/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
 </p>
 
+---
 
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+</p>
+
+---
 
 ### 🌱 Currently Learning
-- 🔹 Advanced ASP.NET Core
-- 🔹 Data Structures & Algorithms
-- 🔹 System Design Basics
+- 🚀 Advanced ASP.NET Core  
+- 🧩 Data Structures & Algorithms  
+- 🏗️ System Design Basics  
 
 ---
 
 ### 📫 Connect With Me
-- 📧 Email: **aasthabhojani26@gmail.com**
-- 💼 LinkedIn: **Add your link here**
+<p align="center">
+📧 <b>aasthabhojani26@gmail.com</b> <br/>
+💼 <a href="YOUR_LINKEDIN">LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+✨ <i>Code. Create. Innovate. Repeat.</i> ✨
+</p>
