@@ -1,15 +1,22 @@
-<h1 align="center">Hi 👋, I'm Aastha Bhojani</h1>
-<h3 align="center">💻 Aspiring Full Stack Developer | ASP.NET • Web API • Frontend Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Aastha Bhojani</h1>
+
+<h3 align="center">
+✨ Turning ideas into interactive web experiences ✨  
+💻 Aspiring Full Stack Developer | ASP.NET • Web API • Frontend  
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Full+Stack+Developer;ASP.NET+Enthusiast;Frontend+Lover;Always+Learning+🚀" />
+</p>
 
 ---
 
-### 👩‍💻 About Me
-- 🌱 Currently learning **ASP.NET Core & Web API**
-- 💡 Passionate about building **real-world web applications**
-- 🎯 Focused on **DSA + Full Stack Development**
-- ⚡ Strong in **Frontend + Backend Integration**
-
----
+### 🌸 About Me
+```diff
++ 💡 I love building real-world applications  
++ 🔥 Strong in Frontend + Backend integration  
++ 🌱 Currently exploring ASP.NET Core & APIs  
++ 🎯 Preparing for placements with DSA & projects  
 
 ### 🚀 Projects
 - 🔹 **Task Manager App**  
