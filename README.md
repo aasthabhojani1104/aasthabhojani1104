@@ -67,8 +67,12 @@
 
 ### 📫 Connect With Me
 <p align="center">
-📧 <b>aasthabhojani26@gmail.com</b> <br/>
-💼 <a href="www.linkedin.com/in/aastha-bhojani">LinkedIn</a>
+  <a href="mailto:aasthabhojani26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aastha-bhojani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
