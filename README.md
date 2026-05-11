@@ -1,102 +1,173 @@
-<h1 align="center">Hey 👋, I'm Aastha Bhojani</h1>
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aastha%20Bhojani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Developer%20%7C%20Java%20%E2%80%A2%20ASP.NET%20%E2%80%A2%20SQL&descAlignY=55&descSize=16" />
+</div>
 
-<h3 align="center">✨ Turning ideas into real-world applications ✨<br/>💻 Aspiring Software Developer | Java • ASP.NET • SQL</h3>
+<!-- Typing SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Developer+%F0%9F%92%BB;ASP.NET+Core+Enthusiast+%E2%9A%A1;DSA+in+C+%F0%9F%A7%A0;Always+Learning+%F0%9F%9A%80;Building+Real-World+Apps+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Software+Developer;ASP.NET+Enthusiast;DSA+in+C;Always+Learning+🚀" />
-</p>
+<br/>
+
+<!-- Profile Views + Followers -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=F75C7E&style=flat-square" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=0077B5" alt="followers" />
+</div>
 
 ---
 
 ## 🌸 About Me
 
-- 🎓 MCA Student with strong interest in software development
-- 💼 Currently doing an **internship** gaining real-world experience
-- 💡 Skilled in **Java (OOP), ASP.NET MVC, SQL & Web Development**
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+```yaml
+Name     : Aastha Bhojani
+Role     : Aspiring Software Developer
+Degree   : MCA (Master of Computer Applications)
+Status   : Internship — gaining real-world experience
+Focus    : Backend Development | API Design | DSA
+```
+
+- 🎓 **MCA Student** with a strong passion for software development
+- 💼 Currently on an **internship**, building production-grade systems
+- 💡 Skilled in **Java (OOP), ASP.NET Core, SQL & Web Development**
 - 🧠 Practiced **Data Structures & Algorithms in C**
-- 📚 Awarded **🏆 Best Reader Award (Twice)** by college library
-- 🎯 Preparing for placements with focus on **DSA, projects & problem-solving**
+- 📚 **🏆 Best Reader Award** — awarded twice by college library
+- 🎯 Actively preparing for placements: **DSA · Projects · Problem Solving**
 
----
-
-## 🚀 Projects
-
-### 🔹 Task Manager System
-
-- ASP.NET Core Web API + Dashboard
-- Features: Task CRUD, status tracking, charts, authentication
-- Focus: Clean architecture & API integration
-
----
-
-### 🔹 Admin Panel (ASP.NET MVC)
-
-- Manage Country, State, City, Store
-- Features:
-  - Role-based access control 🔐
-  - AJAX-based dynamic UI ⚡
-  - Pagination & instant search 🔍
-- Focus: Real-world admin functionality
-
----
-
-### 🔹 HRMS API
-
-- Employee, Attendance & Leave Management
-- Built using ASP.NET Core Web API
-- Focus: Scalable backend + SQL integration
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
-  <a href="https://learn.microsoft.com/en-us/sql/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-  <a href="https://postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-</p>
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Platforms**
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Database & Tools**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🏷️ Project | 🔧 Tech | ✨ Highlights |
+|---|---|---|
+| **HRMS — Human Resource Management System** | ASP.NET Core 8 · Angular 20 · SQL Server | Employee, Attendance & Leave management · JWT Auth · Role-based portals · Stored procedures |
+| **Task Manager System** | ASP.NET Core Web API · Dashboard | Task CRUD · Status tracking · Charts · Authentication · Clean architecture |
+| **Admin Panel** | ASP.NET MVC · AJAX · SQL | Country/State/City/Store management · Role-based access · Pagination · Instant search |
+
+</div>
+
+### 🔹 HRMS — Human Resource Management System
+
+> Full-stack HRMS with separate **Admin** and **Employee** portals
+
+- 🔐 JWT authentication with role-based access control
+- 📊 Admin dashboard with charts, FullCalendar, leave & attendance analytics
+- 👥 Employee management — CRUD, status toggle, profile photos
+- 📅 Leave management — apply, approve, reject, cancel with session breakdown
+- ⏱️ Attendance tracking — check-in/out, correction requests
+- 💰 Payslip viewing & PDF download
+- 🗄️ Pure ADO.NET with stored procedures — no ORM
+
+### 🔹 Task Manager System
+
+> ASP.NET Core Web API + interactive dashboard
+
+- ✅ Full Task CRUD with status tracking
+- 📈 Visual charts for task progress
+- 🔑 Authentication & clean layered architecture
+
+### 🔹 Admin Panel (ASP.NET MVC)
+
+> Real-world admin panel for managing location & store data
+
+- 🔐 Role-based access control
+- ⚡ AJAX-powered dynamic UI — no full page reloads
+- 🔍 Instant search with pagination
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=ffffff" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=ffffff" height="130" />
+</div>
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🚀 Advanced ASP.NET Core
-- 🧩 Data Structures & Algorithms
-- 🏗️ Backend Optimization & API Design
+<div align="center">
+
+| Area | Topics |
+|---|---|
+| 🚀 **ASP.NET Core** | Middleware, background jobs, performance optimization |
+| 🧩 **DSA** | Trees, graphs, dynamic programming |
+| 🏗️ **API Design** | REST best practices, caching, pagination |
+| 🌐 **Angular** | Signals, standalone components, lazy loading |
+
+</div>
 
 ---
 
 ## 🎯 Career Objective
 
-Aspiring to start my career as a **Software Developer / Backend Developer**, where I can apply my knowledge of Java, OOP, and database systems while continuously learning and contributing to real-world applications.
+<div align="center">
+
+> *Aspiring to launch my career as a **Software Developer / Backend Developer**, applying my expertise in Java, OOP, and database systems — while continuously learning and contributing to impactful, real-world applications.*
+
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:aasthabhojani26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aastha-bhojani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-aasthabhojani26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aasthabhojani26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aastha%20Bhojani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aastha-bhojani)
+
+</div>
 
 ---
 
-<p align="center">✨ <i>Code. Learn. Build. Grow.</i> ✨</p>
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <i>✨ Code. Learn. Build. Grow. ✨</i>
+</div>
