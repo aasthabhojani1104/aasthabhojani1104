@@ -12,16 +12,16 @@
 
 <!-- Profile Views + Followers -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=F75C7E&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aasthabhojani26&label=Profile%20Views&color=F75C7E&style=flat-square" alt="profile views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=0077B5" alt="followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat-square" alt="open to opportunities" />
 </div>
 
 ---
 
 ## 🌸 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding Girl" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ```yaml
 Name     : Aastha Bhojani
@@ -114,15 +114,27 @@ Focus    : Backend Development | API Design | DSA
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Skills & Progress
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=ffffff" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" height="165" />
+
+| Skill | Proficiency |
+|---|---|
+| Java (OOP) | ████████████░░░ 80% |
+| ASP.NET Core Web API | ███████████░░░░ 75% |
+| SQL / Stored Procedures | ████████████░░░ 80% |
+| C# | ██████████░░░░░ 70% |
+| Angular | ████████░░░░░░░ 55% |
+| HTML / CSS / Bootstrap | ████████████░░░ 80% |
+| DSA in C | ███████░░░░░░░░ 50% |
+| Git & Version Control | █████████░░░░░░ 60% |
+
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=ffffff" height="130" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aasthabhojani26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
 </div>
 
 ---
