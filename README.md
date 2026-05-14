@@ -114,24 +114,7 @@ Focus    : Backend Development | API Design | DSA
 
 ---
 
-## 📊 Skills & Progress
 
-<div align="center">
-
-| Skill | Proficiency |
-|---|---|
-| Java (OOP) | ████████████░░░ 80% |
-| ASP.NET Core Web API | ███████████░░░░ 75% |
-| SQL / Stored Procedures | ████████████░░░ 80% |
-| C# | ██████████░░░░░ 70% |
-| Angular | ████████░░░░░░░ 55% |
-| HTML / CSS / Bootstrap | ████████████░░░ 80% |
-| DSA in C | ███████░░░░░░░░ 50% |
-| Git & Version Control | █████████░░░░░░ 60% |
-
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aasthabhojani26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
