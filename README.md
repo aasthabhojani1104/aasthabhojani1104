@@ -116,12 +116,6 @@ Focus    : Backend Development | API Design | DSA
 
 
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aasthabhojani26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 <div align="center">
